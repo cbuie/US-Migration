@@ -1,0 +1,51 @@
+cbsa_name,percentage_moves_within_cbsa_2019,percentage_moves_within_cbsa_2020,percentage_increase_permanent_moves_yoy,total_workers,percentage_untethered
+"Buffalo-Cheektowaga, NY",88.08,88.36,-9.6750821,549821,4.8
+"Providence-Warwick, RI-MA",86.07,85.6,-7.1024106,825476,3.9
+"Detroit-Warren-Dearborn, MI",86.76,86.16,-4.2669632,2019527,4.3
+"Baltimore-Columbia-Towson, MD",87.71,87.47,-3.8695137,1384178,6
+"Hartford-East Hartford-Middletown, CT",81.63,81.58,-3.5284904,608679,4.8
+"Riverside-San Bernardino-Ontario, CA",76.34,74.46,-2.014388,2028348,3.6
+"Pittsburgh, PA",90.36,90.39,-1.5428127,1116228,6.2
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",89.86,88.23,-1.5347541,3019796,5.2
+"Cleveland-Elyria, OH",87.63,87.47,-1.1939478,976118,5.5
+"Milwaukee-Waukesha, WI",87.65,87.06,-0.5361494,785798,5.8
+"Louisville/Jefferson County, KY-IN",93.13,93.24,-0.3358762,618626,4
+"Sacramento-Roseville-Folsom, CA",84,82.82,-0.3316327,1118425,7
+"Cincinnati, OH-KY-IN",94.01,93.76,0.16436816,1059681,4.3
+"Indianapolis-Carmel-Anderson, IN",93.06,93.05,0.92725263,1024252,4.4
+"Memphis, TN-MS-AR",94.8,94.83,1.2778379,581304,5
+"Chicago-Naperville-Elgin, IL-IN-WI",87.68,86.36,1.29723492,4724575,6.4
+"Richmond, VA",97.22,97.37,1.49829274,653959,5.1
+"Virginia Beach-Norfolk-Newport News, VA-NC",95.89,96.34,1.5039182,815521,4.9
+"Columbus, OH",89.36,89.45,1.52055526,1038499,6.2
+"Tampa-St. Petersburg-Clearwater, FL",83.87,84.88,1.59637045,1498704,6.3
+"St. Louis, MO-IL",95.42,95.16,1.85238673,1391107,4.6
+"Kansas City, MO-KS",94.59,94.73,2.12760119,1117216,5.6
+"Minneapolis-St. Paul-Bloomington, MN-WI",88.43,88.65,2.13076073,1974933,5.3
+"San Juan-Bayamâˆšâ‰¥n-Caguas, PR",99.37,98.28,3.13129054,,0
+"San Diego-Chula Vista-Carlsbad, CA",78.07,77.07,3.15485733,1660455,7.8
+"Boston-Cambridge-Newton, MA-NH",79.6,77.64,3.85593908,2639729,8.6
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",88.05,87.12,4.36049726,3303574,9.2
+"Miami-Fort Lauderdale-Pompano Beach, FL",79.46,79.73,5.01670613,3045913,6.5
+"Dallas-Fort Worth-Arlington, TX",91.39,91.6,5.40622982,3768822,6.9
+"Atlanta-Sandy Springs-Alpharetta, GA",92.98,93.05,5.44099575,2978957,6.9
+"Portland-Vancouver-Hillsboro, OR-WA",86.73,86.2,5.72218283,1287385,6.5
+"Seattle-Tacoma-Bellevue, WA",83.08,80.93,6.2091265,2115309,9.8
+"Phoenix-Mesa-Chandler, AZ",79.48,80.24,6.73596148,2332445,6.9
+"Los Angeles-Long Beach-Anaheim, CA",79.27,75.99,6.78407914,6620505,9.8
+"Jacksonville, FL",90.1,90.48,6.91276124,732050,5.5
+"San Antonio-New Braunfels, TX",88.61,89.35,6.97285291,1180675,5.2
+"Nashville-Davidson--Murfreesboro--Franklin, TN",91.46,91.62,7.01321848,1086394,5.2
+"Orlando-Kissimmee-Sanford, FL",81.31,80.99,7.14016409,1276920,6.4
+"Raleigh-Cary, NC",81.05,81.08,7.50917458,738794,6.1
+"New Orleans-Metairie, LA",92.04,91.65,7.52873043,599528,4
+"Las Vegas-Henderson-Paradise, NV",83.86,83.28,7.7062026,1082780,6.4
+"Salt Lake City, UT",79.62,79.34,7.83449638,660372,6.3
+"Charlotte-Concord-Gastonia, NC-SC",90.49,90.63,7.86480445,1329002,5.9
+"Austin-Round Rock-Georgetown, TX",86.05,85.97,8.22295393,1220720,10.6
+"Denver-Aurora-Lakewood, CO",86.55,86.52,8.28197475,1674933,8.2
+"Houston-The Woodlands-Sugar Land, TX",90.67,91,8.61038294,3360168,5.3
+"Oklahoma City, OK",93.46,93.28,9.77084019,705868,5.1
+"New York-Newark-Jersey City, NY-NJ-PA",85.68,78.71,11.7928559,9881123,9.1
+"San Jose-Sunnyvale-Santa Clara, CA",67.41,66.23,16.579528,1002381,13.4
+"San Francisco-Oakland-Berkeley, CA",73.43,69.88,23.3045239,2514079,13.5
